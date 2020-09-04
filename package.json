@@ -14,7 +14,7 @@
     "requirejs": "^2.3.6",
     "vue": "^2.6.10",
     "vue-chartjs": "^3.4.2",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vuejs-datepicker": "^1.6.2"
   },
   "devDependencies": {
